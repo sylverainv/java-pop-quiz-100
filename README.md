@@ -27,3 +27,5 @@ THEN I can save my initials and score
 The following animation demonstrates the application functionality:
 
 ![code quiz](./Assets/04-web-apis-homework-demo.gif)
+
+<img width="1440" alt="code quiz screen shot" src="https://user-images.githubusercontent.com/85650009/151911302-00173e63-3e5e-4c3c-ab90-a12a386d06f0.png">
